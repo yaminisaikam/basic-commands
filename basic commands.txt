@@ -1,0 +1,7 @@
+# Basic file commands
+echo :- displays a line of the text
+date :- prints the system date and time
+calculator :- we can use terminal as calculator too.
+          Ex: expr 3 + 5   //here the terminal minds the gaps
+          here we can use +,-,*,/ operators
+figlet :- command to turn text ino ASCII art
